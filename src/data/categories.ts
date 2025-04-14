@@ -1,5 +1,5 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'NCDCC 101',
-	'Life as a Cadet',
+	'NCDCC101',
+	'Life_as_a_Cadet',
 ] as const
